@@ -1,7 +1,8 @@
-(https://cdn.discordapp.com/attachments/918405470073520168/919045800322023465/dc_cover.png)
+<img src="https://raw.githubusercontent.com/rryyfna/rryyfna/main/dc%20cover.png">
 
-<h1 align="center">Hi👋</h1>
-<h3 align="center">Actually I'm a graphic designer (maybe xd), just trying to learn web programming :)</h3>
+
+<h1 align="left">Hi👋</h1>
+<h3 align="left">Actually I'm a graphic designer (maybe xd), just trying to learn web programming :)</h3>
 
 - ⚡ Fun fact **Ingfo Mletre**
 
