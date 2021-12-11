@@ -1,3 +1,5 @@
+(https://cdn.discordapp.com/attachments/918405470073520168/919045800322023465/dc_cover.png)
+
 <h1 align="center">Hi👋</h1>
 <h3 align="center">Actually I'm a graphic designer (maybe xd), just trying to learn web programming :)</h3>
 
