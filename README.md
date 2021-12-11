@@ -1,6 +1,6 @@
-<h1 align="left">Hi👋, I'm Fachry Naufal</h1>
-
 <img src="https://raw.githubusercontent.com/rryyfna/rryyfna/main/dc%20cover.png">
+
+<h1 align="left">Hi👋, I'm Fachry Naufal</h1>
 
 Actually I'm a graphic designer (maybe xd), just trying to learn web programming :)
 
