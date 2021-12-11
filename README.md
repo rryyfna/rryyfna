@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rryyfna/rryyfna/main/dc%20cover.png">
+<img src="https://cdn.discordapp.com/attachments/918405470073520168/919054820055343224/github_banner_dowo.png">
 
 <h1 align="left">Hi👋, I'm Fachry Naufal</h1>
 
