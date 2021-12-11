@@ -1,4 +1,4 @@
-<h1 align="center">Hai👋</h1>
+<h1 align="center">Hi👋</h1>
 <h3 align="center">Actually I'm a graphic designer (maybe xd), just trying to learn web programming :)</h3>
 
 - ⚡ Fun fact **Ingfo Mletre**
