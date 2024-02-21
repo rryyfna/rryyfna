@@ -2,9 +2,8 @@
 
 <h1 align="left">Hi👋, I'm Fachry Naufal</h1>
 
-Actually I'm a graphic designer (maybe xd), just trying to learn web programming :)
+Actually I'm a graphic designer, music enthusiast (maybe xd), just trying to learn programming :)
 
-- ⚡ Fun fact **ingfo cewek mening lurd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
