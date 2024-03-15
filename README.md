@@ -1,5 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/918405470073520168/919054820055343224/github_banner_dowo.png">
-
 <h1 align="left">Hi👋, I'm Fachry Naufal</h1>
 
 Actually I'm a graphic designer, music enthusiast (maybe xd), just trying to learn programming :)
