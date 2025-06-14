@@ -1,6 +1,6 @@
 <h1 align="left">Hi👋, I'm Fachry Naufal</h1>
 
-Actually I'm a graphic designer, music enthusiast (maybe xd), just trying to learn programming :)
+Actually I'm a graphic designer, editor, music producer, just trying to learn programming :)
 
 
 <h3 align="left">Connect with me:</h3>
